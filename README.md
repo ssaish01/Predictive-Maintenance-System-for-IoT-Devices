@@ -1,4 +1,4 @@
-# IoT Device Management System
+# Smart IoT Monitoring and Predictive Maintenance System
 
 ## Overview
 
